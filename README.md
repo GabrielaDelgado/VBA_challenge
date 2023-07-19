@@ -16,6 +16,6 @@ I used VBA to code in the Excel worksheet and create macros that would look for 
 Acknoledgements:
 
 TA Sam Espe for including a README file sample to have an idea of to write mine
-Tutor SImon Rennocks for answering my questions about the challenge so I try to correct my mistakes about how to approach the challenge
+Tutor SImon Rennocks and Nelson Tsai for answering my questions about the challenge so I try to correct my mistakes about how to approach the challenge
 EdX for providing me sample material that I could use as a guide for my coe
 Select multiple worksheets code and range to max values was gathered from EverydayVBA YouTube videos
